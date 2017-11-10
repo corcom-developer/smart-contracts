@@ -10,7 +10,7 @@ import '../math/SafeMath.sol';
  * token purchases and the crowdsale will assign them tokens based
  * on a token per ETH rate. Funds collected are forwarded to a wallet
  * as they arrive.
- * for corcom.io from open 
+ * for corcom.io from openzeppelin.org github
  */
 contract Crowdsale {
   using SafeMath for uint256;
